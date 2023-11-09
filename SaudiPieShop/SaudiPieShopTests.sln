@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaudiPieShopTests", "..\SaudiPieShopTests\SaudiPieShopTests.csproj", "{867FFABF-D582-4A80-A46F-BCD4534B9084}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaudiPieShop", "SaudiPieShop.csproj", "{F909D2E3-C247-4E29-A632-73C5B1BDBE98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{867FFABF-D582-4A80-A46F-BCD4534B9084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867FFABF-D582-4A80-A46F-BCD4534B9084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867FFABF-D582-4A80-A46F-BCD4534B9084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867FFABF-D582-4A80-A46F-BCD4534B9084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F909D2E3-C247-4E29-A632-73C5B1BDBE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F909D2E3-C247-4E29-A632-73C5B1BDBE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F909D2E3-C247-4E29-A632-73C5B1BDBE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F909D2E3-C247-4E29-A632-73C5B1BDBE98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5A475EA-3CA9-4F6C-B771-AA83A64E2ED0}
+	EndGlobalSection
+EndGlobal
